@@ -1,4 +1,4 @@
-package io.github.odevfred.ctapp.domain.service;
+package io.github.odevfred.ctapp.application.service;
 
 import io.github.odevfred.ctapp.domain.model.Usuario;
 import io.github.odevfred.ctapp.domain.repository.UsuarioRepository;
