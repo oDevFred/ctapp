@@ -1,4 +1,4 @@
-package io.github.odevfred.ctapp.domain;
+package io.github.odevfred.ctapp.domain.model;
 
 import java.time.LocalDateTime;
 import java.util.UUID;
